@@ -10,3 +10,6 @@ download chrome bookmarked youtube movies
 	- youtube/NBA-funny-moment/one-movie
 5. execute this script
 	- `python main.py output_local_direcotry`
+
+
+[make folder and bookmark youtube page in the folder](sample-capture.png)
