@@ -12,4 +12,4 @@ download chrome bookmarked youtube movies
 	- `python main.py output_local_direcotry`
 
 
-[make folder and bookmark youtube page in the folder](sample-capture.png)
+![make folder and bookmark youtube page in the folder](sample-capture.png)
