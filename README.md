@@ -13,3 +13,9 @@ download chrome bookmarked youtube movies
 
 
 ![make folder and bookmark youtube page in the folder](sample-capture.png)
+
+
+
+## ToDo
+- URLとタイトルを書いたテキストファイルを出力する
+- 出力ディレクトリ内に既にダウンロード対象の動画ファイルがあったらダウンロードをスキップ
